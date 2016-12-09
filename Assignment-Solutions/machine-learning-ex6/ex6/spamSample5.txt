@@ -1,0 +1,7 @@
+This is huge, actually- :)
+
+We took a big risk in GLS - we knew that it would take some time to bring up,
+but the risk was that all of the failures were test artifacts. Having it
+passing now is a big milestone. Thanks guys and gals!
+
+DJ
